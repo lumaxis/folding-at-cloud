@@ -59,7 +59,7 @@ packages:
 write_files:
   - content: |
       <config>
-      <user value='gorzell'/>
+      <user value='lumaxis'/>
       <team value='236463'/>
       <passkey value=''/>
       <smp value='true'/>
