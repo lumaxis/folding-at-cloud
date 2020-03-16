@@ -22,7 +22,7 @@ usage () {
 
 RESOURCE_GROUP=foldingathome
 NAME=folder
-LOCATION=eastus
+LOCATION=westeurope
 USER=$(whoami)
 
 for arg in "$@"; do
